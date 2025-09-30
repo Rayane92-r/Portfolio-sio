@@ -19,6 +19,7 @@ Il permet ainsi de définir l'entête et le pied de page de toutes les pages du 
     <title>{% block title %}Portfolio BTS SIO{% endblock %}</title>
     
     <!-- Favicons :-->
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/custom.css?v=5">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/theme/logo/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/theme/logo/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="48x48" href="{{ SITEURL }}/theme/logo/favicon-48x48.png">
@@ -43,6 +44,64 @@ Il permet ainsi de définir l'entête et le pied de page de toutes les pages du 
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/custom.css">
 
 </head>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Parcours scolaire</title>
+  <style>
+    body {
+        font-family: 'Segoe UI', sans-serif;
+        background: #f9f9f9;
+        color: #333;
+        padding: 40px;
+        line-height: 1.8;
+    }
+    h1, h2, h3 {
+        color: #1a237e;
+        border-bottom: 2px solid #c5cae9;
+        padding-bottom: 8px;
+        margin-bottom: 20px;
+    }
+    strong {
+        color: #3949ab;
+    }
+    ul {
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+    ul li {
+        margin-bottom: 10px;
+    }
+    li strong {
+        font-weight: bold;
+        color: #0d47a1;
+    }
+    u {
+        text-decoration: none;
+        border-bottom: 2px dotted #9fa8da;
+        font-weight: bold;
+        color: #303f9f;
+    }
+    p {
+        margin-bottom: 16px;
+        text-align: justify;
+        max-width: 800px;
+    }
+    @media (max-width: 768px) {
+        body {
+            padding: 20px;
+        }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Ici s'affiche ton contenu Markdown converti en HTML -->
+
+</body>
+</html>
+
 
 <body class="m-0 p-0">
     <!-- INCLUSION DU HEADER : -->

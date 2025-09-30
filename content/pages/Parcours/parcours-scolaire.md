@@ -2,7 +2,7 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
+Après un bac professionnel **AGOrA** (**A**ssistance à la **G**estion des **O**rganisations et de leurs **A**ctivités) j’ai toujours été attiré par le monde de l’information. Pour diverses raisons, je n’ai pas pu poursuivre mes études initialement dans ce domaine, ce qui m’a conduit à m’orienter vers un **BTS SIO** (Services Informatiques aux Organisations).
 
 
 
@@ -14,24 +14,5 @@ Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations &
 
 
 - **<u>Durée :</u>** 2 ans.
-- **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
-
-
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
-
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
-
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
-
-
-**3. BUT Informatique** (ex-DUT) :
-
-Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
-
-- **<u>Spécialités :</u>** développement, data, systèmes et réseaux, gestion de projets.
-- **<u>Points forts :</u>** pédagogie par projets, bonne réputation auprès des entreprises.
-- **<u>Débouchés :</u>** bac +3 direct, insertion professionnelle ou poursuite en Master/école d’ingénieur.
-
-
-
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.
+Ce diplôme offre la possibilité d’entrer directement sur le marché du travail en tant que technicien support, administrateur systèmes/réseaux ou développeur junior, ou bien de poursuivre ses études vers un Bachelor, un BUT ou une licence.
+J’ai choisi la spécialité SLAM afin de développer et d’approfondir mes compétences en développement d’applications, domaine qui correspond parfaitement à mes centres d’intérêt et à mes ambitions professionnelles.
