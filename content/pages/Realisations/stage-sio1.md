@@ -62,65 +62,41 @@ APF France Handicap est présente partout en France :
 ---
 
 ## 🧰 Missions & tâches réalisées
-<ul>
-  <li>
-    <strong>Semaine 1 :</strong>
-    <ul>
-      <li>Recherche sur les différents pôles APF France handicap en France</li>
-      <li>Consultation et analyse des sites existants (captures d’écran, comparaison)</li>
-      <li>Observation de l’organisation interne du Pôle Enfance Jeunesse Sud 77</li>
-      <li>Participation à une réunion de présentation du projet</li>
-    </ul>
-  </li>
 
-  <li>
-    <strong>Semaine 2 :</strong>
-    <ul>
-      <li>Analyse des menus et de la structure de navigation des sites institutionnels</li>
-      <li>Proposition d’un schéma comparatif des menus observés</li>
-      <li>Conception d’une première maquette graphique pour la page d’accueil</li>
-      <li>Participation à une réunion d’équipe pour présenter mes propositions</li>
-    </ul>
-  </li>
+### Semaine 1
+- Recherche sur les différents pôles APF France handicap en France  
+- Consultation et analyse des sites existants (captures d’écran, comparaison)  
+- Observation de l’organisation interne du Pôle Enfance Jeunesse Sud 77  
+- Participation à une réunion de présentation du projet  
 
-  <li>
-    <strong>Semaine 3 :</strong>
-    <ul>
-      <li>Création d’illustrations (schémas, flèches, visuels) pour présenter les structures du pôle</li>
-      <li>Retouche graphique (choix des couleurs, harmonie)</li>
-      <li>Formation sur le logiciel interne de création de site internet</li>
-      <li>Rédaction d’un petit tutoriel pour résumer les fonctionnalités de base du logiciel</li>
-    </ul>
-  </li>
+### Semaine 2
+- Analyse des menus et de la structure de navigation des sites institutionnels  
+- Proposition d’un schéma comparatif des menus observés  
+- Conception d’une première maquette graphique pour la page d’accueil  
+- Participation à une réunion d’équipe pour présenter mes propositions  
 
-  <li>
-    <strong>Semaine 4 :</strong>
-    <ul>
-      <li>Intégration des menus déroulants de niveau 1 et 2 sur le site</li>
-      <li>Mise en place des premières pages (accueil, présentation, contact)</li>
-      <li>Rédaction de textes explicatifs pour accompagner les visuels</li>
-      <li>Vérification du rendu du site sur différents supports (ordinateur, tablette, téléphone)</li>
-    </ul>
-  </li>
+### Semaine 3
+- Création d’illustrations (schémas, flèches, visuels) pour présenter les structures du pôle  
+- Retouche graphique (choix des couleurs, harmonie)  
+- Formation sur le logiciel interne de création de site internet  
+- Rédaction d’un petit tutoriel pour résumer les fonctionnalités de base du logiciel  
 
-  <li>
-    <strong>Semaine 5 :</strong>
-    <ul>
-      <li>Travail sur l’accessibilité du site (taille des polices, contrastes, lisibilité)</li>
-      <li>Intégration de nouvelles images et contenus fournis par l’équipe</li>
-      <li>Mise à jour des textes de présentation avec corrections orthographiques et de mise en page</li>
-      <li>Test des liens hypertextes pour vérifier la navigation</li>
-    </ul>
-  </li>
+### Semaine 4
+- Intégration des menus déroulants de niveau 1 et 2 sur le site  
+- Mise en place des premières pages (accueil, présentation, contact)  
+- Rédaction de textes explicatifs pour accompagner les visuels  
+- Vérification du rendu du site sur différents supports (ordinateur, tablette, téléphone)  
 
-  <li>
-    <strong>Semaine 6 :</strong>
-    <ul>
-      <li>Finalisation des menus et des contenus</li>
-      <li>Vérification générale du site avant la mise en ligne (contrôle qualité)</li>
-      <li>Participation à la présentation finale du projet devant l’équipe</li>
-      <li>Rédaction d’un bilan de stage et retour d’expérience</li>
-    </ul>
-  </li>
-</ul>
+### Semaine 5
+- Travail sur l’accessibilité du site (taille des polices, contrastes, lisibilité)  
+- Intégration de nouvelles images et contenus fournis par l’équipe  
+- Mise à jour des textes de présentation avec corrections orthographiques et de mise en page  
+- Test des liens hypertextes pour vérifier la navigation  
+
+### Semaine 6
+- Finalisation des menus et des contenus  
+- Vérification générale du site avant la mise en ligne (contrôle qualité)  
+- Participation à la présentation finale du projet devant l’équipe  
+- Rédaction d’un bilan de stage et retour d’expérience  
+
 
